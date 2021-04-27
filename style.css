@@ -1,0 +1,30 @@
+html {
+scroll-behavior: smooth;
+}
+.first{
+background-color: red;
+text-align: center;
+}
+.second{
+    background-color: rgb(255, 136, 0); 
+    text-align: center;
+}
+.third{
+    background-color: rgb(255, 238, 0);
+    text-align: center;
+}
+.fourth{
+    background-color: rgb(51, 255, 0);
+    text-align: center;
+}
+#title{
+    background: linear-gradient(to left, rgb(255, 0, 0),rgb(47, 0, 255));
+    text-align: center;
+}
+body{
+    background-color: black;
+    text-align: center;
+}
+body{
+    text-align: center;
+}
